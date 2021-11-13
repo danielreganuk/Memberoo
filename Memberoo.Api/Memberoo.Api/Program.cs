@@ -1,21 +1,36 @@
 using Memberoo.Api.Configurations;
 using Memberoo.Application.Configurations;
+using Memberoo.Persistence;
+using Memberoo.Persistence.Seeds;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 var services = builder.Services;
 
 services.AddApplication();
-
 services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var app = builder.Build();
-var configuration = app.Configuration;
+
+var configuration = builder.Configuration;
 services.AddDependencies(configuration);
+var app = builder.Build();
+SeedData(app);
+
+void SeedData(IHost app)
+{
+    var scopedFactory = app.Services.GetService<IServiceScopeFactory>();
+
+    using (var scope = scopedFactory.CreateScope())
+    {
+        var context = scope.ServiceProvider.GetRequiredService<MemberooContext>();
+        context.Database.Migrate();
+        DevelopmentInitialiser.Initalise(context);
+    }
+}
 
 
 // Configure the HTTP request pipeline.

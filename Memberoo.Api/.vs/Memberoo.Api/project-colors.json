@@ -25,7 +25,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "f4188e01-ff7a-4abd-90a1-7d0dd624c353": {
+      "ProjectGuid": "f4188e01-ff7a-4abd-90a1-7d0dd624c353",
+      "DisplayName": "Memberoo.Persistence.SqlServer",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

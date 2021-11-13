@@ -17,7 +17,7 @@ namespace Memberoo.Persistence.SqlServer.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Password = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    EncodedId = table.Column<int>(type: "int", nullable: false, computedColumnSql: "[MemberId]100000"),
+                    EncodedId = table.Column<int>(type: "int", nullable: false, computedColumnSql: "[MemberId] + 100000"),
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     MembershipNo = table.Column<string>(type: "nvarchar(max)", nullable: true),
