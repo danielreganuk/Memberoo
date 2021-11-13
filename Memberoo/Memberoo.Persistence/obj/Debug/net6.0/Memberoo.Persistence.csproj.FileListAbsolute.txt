@@ -1,0 +1,17 @@
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\Memberoo.Persistence.deps.json
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\Memberoo.Persistence.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\ref\Memberoo.Persistence.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\Memberoo.Persistence.pdb
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\Memberoo.Application.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\Memberoo.Domain.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\Memberoo.Application.pdb
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\bin\Debug\net6.0\Memberoo.Domain.pdb
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.csproj.AssemblyReference.cache
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.AssemblyInfoInputs.cache
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.AssemblyInfo.cs
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.csproj.CopyComplete
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\ref\Memberoo.Persistence.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Persistence\obj\Debug\net6.0\Memberoo.Persistence.pdb

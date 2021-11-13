@@ -1,0 +1,15 @@
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\bin\Debug\net6.0\Memberoo.Application.deps.json
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\bin\Debug\net6.0\Memberoo.Application.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\bin\Debug\net6.0\ref\Memberoo.Application.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\bin\Debug\net6.0\Memberoo.Application.pdb
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\bin\Debug\net6.0\Memberoo.Domain.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\bin\Debug\net6.0\Memberoo.Domain.pdb
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.csproj.AssemblyReference.cache
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.AssemblyInfoInputs.cache
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.AssemblyInfo.cs
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.csproj.CopyComplete
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\ref\Memberoo.Application.dll
+C:\Projects\Memberoo\Memberoo\Memberoo.Application\obj\Debug\net6.0\Memberoo.Application.pdb

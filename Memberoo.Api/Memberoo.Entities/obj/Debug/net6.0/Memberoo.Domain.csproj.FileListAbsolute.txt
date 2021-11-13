@@ -1,0 +1,11 @@
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\bin\Debug\net6.0\Memberoo.Domain.deps.json
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\bin\Debug\net6.0\Memberoo.Domain.dll
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\bin\Debug\net6.0\ref\Memberoo.Domain.dll
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\bin\Debug\net6.0\Memberoo.Domain.pdb
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\obj\Debug\net6.0\Memberoo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\obj\Debug\net6.0\Memberoo.Domain.AssemblyInfoInputs.cache
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\obj\Debug\net6.0\Memberoo.Domain.AssemblyInfo.cs
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\obj\Debug\net6.0\Memberoo.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\obj\Debug\net6.0\Memberoo.Domain.dll
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\obj\Debug\net6.0\ref\Memberoo.Domain.dll
+C:\Projects\Memberoo\Memberoo.Api\Memberoo.Entities\obj\Debug\net6.0\Memberoo.Domain.pdb

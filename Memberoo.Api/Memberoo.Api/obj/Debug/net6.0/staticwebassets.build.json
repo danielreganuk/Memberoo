@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4us0zAKQtAZIOWrPrsGwGpOXwwS8iUvXK+CZPxR0S3g=",
+  "Source": "Memberoo.Api",
+  "BasePath": "_content/Memberoo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
